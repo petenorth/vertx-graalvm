@@ -19,9 +19,10 @@
             <version>3.5.3</version>
         </dependency>
         <dependency>
-            <groupId>com.oracle.svm</groupId>
+            <groupId>com.oracle.substratevm</groupId>
             <artifactId>svm</artifactId>
             <version>GraalVM-1.0.0-rc5</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
