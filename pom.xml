@@ -21,7 +21,7 @@
         <dependency>
             <groupId>com.oracle.svm</groupId>
             <artifactId>svm</artifactId>
-            <version>GraalVM-1.0.0-rc1</version>
+            <version>GraalVM-1.0.0-rc5</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
